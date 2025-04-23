@@ -1,31 +1,7 @@
 version = 1
 
-test_patterns = [
-  "tests/**"
-]
-
-exclude_patterns = [
-  "vendor/**"
-]
-
-[[analyzers]]
-name = "test-coverage"
-
-[[analyzers]]
-name = "sql"
-
-[[analyzers]]
-name = "secrets"
-
 [[analyzers]]
 name = "php"
 
-[analyzers.meta]
-  bootstrap_files = ["vendor/autoload.php"]
-  skip_doc_coverage = ["class", "magic", "nonpublic"]
-
 [[analyzers]]
-name = "docker"
-
-[[transformers]]
-name = "php-cs-fixer"
+name = "shell"
