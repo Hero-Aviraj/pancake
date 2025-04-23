@@ -127,6 +127,13 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to this p
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/Hero-Aviraj">
+                    <img src="https://avatars.githubusercontent.com/u/178659748?v=4" width="100;" alt="Hero-Aviraj"/>
+                    <br />
+                    <sub><b>Haraprasad Mondal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/guibranco">
                     <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
                     <br />
@@ -187,12 +194,21 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to this p
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/deepsource-io[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
+                    <br />
+                    <sub><b>deepsource-io[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/penify-dev[bot]">
                     <img src="https://avatars.githubusercontent.com/in/399279?v=4" width="100;" alt="penify-dev[bot]"/>
                     <br />
                     <sub><b>penify-dev[bot]</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/snyk-bot">
                     <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
